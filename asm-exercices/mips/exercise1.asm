@@ -5,7 +5,7 @@
 .text
 
 main:
-   	addi $v0, $zero, 1 # set $v0 to call PRINT_INTEGER
+    addi $v0, $zero, 1 # set $v0 to call PRINT_INTEGER
     addi $s1, $0, 4 # $s1 = 4
     addi $s2, $0, 3 # $s2 = 3
     addi $s3, $0, 2 # $s3 = 2
