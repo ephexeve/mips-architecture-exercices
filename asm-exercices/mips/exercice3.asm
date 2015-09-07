@@ -1,4 +1,4 @@
-# addressing modes
+# addressing modes (imediate)
 # addi example
 # addi $s0, $s1, 10
 #
